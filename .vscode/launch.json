@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Josseh/Desktop/pruebaGit",
-      "program": "c:/Users/Josseh/Desktop/pruebaGit/build/Debug/outDebug",
+      "cwd": "c:/Users/Josseh/Desktop/pruebaGit2/pruebaGit",
+      "program": "c:/Users/Josseh/Desktop/pruebaGit2/pruebaGit/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
